@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Kenneth Aasan",
+    "label": "Software Developer",
+    "picture": "https://pbs.twimg.com/profile_images/430478573271408640/cfGL3lXm.jpeg",
+    "email": "kenaasa@gmail.com",
+    "phone": "+47 95802339",
+    "website": "https://richardhendricks.com",
+    "summary": "Summary",
+    "location": {
+      "address": "Mellomila 93 B",
+      "postalCode": "7018",
+      "city": "Trondheim",
+      "countryCode": "NO",
+      "region": "Sør-Trøndelag"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "https://www.linkedin.com/in/kenneth-aasan"
+      },
+      {
+        "network": "Twitter",
+        "username": "kennethaa",
+        "url": "https://twitter.com/kennethaa"
+      },
+      {
+        "network": "Github",
+        "username": "kennethaa",
+        "url": "https://github.com/kennethaa"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sportradar",
+      "position": "Lead Developer",
+      "website": "https://www.sportradar.com/",
+      "startDate": "2014-06-01",
+      "summary": "Working in the Hosted Solutions team, bringing Sportradar's solutions up to speed with the most recent technological advances.",
+      "highlights": [
+        "Introduced React and Redux with universal rendering to Sportradar's livescore and statistics solution."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Vanvik Idrettslag",
+      "position": "Webmaster",
+      "website": "http://vanvikil.no",
+      "startDate": "2008-01-01",
+      "summary": "Responsible for the website and social media accounts",
+      "highlights": [
+        "Made a livescore/statistics solution based on Angular and Laravel while I was studying that's still in use: http://live.vanvikil.no"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Norwegian University of Science and Technology",
+      "area": "Information Technology with specialization in Information Management",
+      "studyType": "Bachelor",
+      "startDate": "2011-07-01",
+      "endDate": "2015-06-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "npm",
+        "nginx",
+        "Varnish"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Norwegian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Football",
+        "Winter sports",
+        "Golf",
+        "Cycling"
+      ]
+    }
+  ],
+  "references": []
+}

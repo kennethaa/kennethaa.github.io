@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "resume.json",
+  "scripts": {
+    "export": "resume export index.html --theme Kwan",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Aasan",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kennethaa/kennethaa.github.io.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "resume-cli": "^0.4.13"
+  }
+}
