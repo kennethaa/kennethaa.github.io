@@ -48,11 +48,11 @@
     {
       "organization": "Vanvik Idrettslag",
       "position": "Webmaster",
-      "website": "http://vanvikil.no",
+      "website": "https://vanvikil.no",
       "startDate": "2008-01-01",
       "summary": "Responsible for the website and social media accounts",
       "highlights": [
-        "Made a livescore/statistics solution based on Angular and Laravel while I was studying that's still in use: http://live.vanvikil.no"
+        "Made a livescore/statistics solution based on Angular and Laravel while I was studying that's still in use: https://live.vanvikil.no"
       ]
     }
   ],

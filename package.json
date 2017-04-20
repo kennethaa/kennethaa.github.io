@@ -8,12 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kenneth Aasan",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:kennethaa/kennethaa.github.io.git"
-  },
   "license": "MIT",
   "dependencies": {
-    "resume-cli": "^0.4.13"
+    "jsonresume-theme-kwan": "0.0.2",
+    "resume-cli": "^0.4.19"
   }
 }
