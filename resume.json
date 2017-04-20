@@ -23,12 +23,12 @@
       {
         "network": "Twitter",
         "username": "kennethaa",
-        "url": "https://twitter.com/kennethaa"
+        "url": "https://twitter.com/kennethaasan"
       },
       {
         "network": "Github",
         "username": "kennethaa",
-        "url": "https://github.com/kennethaa"
+        "url": "https://github.com/kennethaasan"
       }
     ]
   },
@@ -80,7 +80,10 @@
         "Node.js",
         "npm",
         "nginx",
-        "Varnish"
+        "Varnish",
+        "Jenkins",
+        "GitLab (CI)",
+        "Elasticsearch"
       ]
     }
   ],
