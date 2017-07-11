@@ -6,7 +6,7 @@
     "email": "kenaasa@gmail.com",
     "phone": "+47 95802339",
     "website": "https://kennethaasan.no",
-    "summary": "Big fan of Premier League and Chelsea.",
+    "summary": "I'm born in Trondheim, Norway. I lived my first 18 years in Stadsbygd, Norway. After high school I spent a year in Bodø, Norway in the Norwegian Air Force as a soldier. After one year in the military I moved to Trondheim and started on NTNU where I studied Information Technology. Ever since I was a kid I’ve been watching and playing football. I’ve been a huge fan of Premier League and especially Chelsea all those years. Creating IT solutions for my own amateur football team got me into Sportradar in Trondheim. I wrote my bachelor thesis for Sportradar where I made a server-side rendered Livescore solution that is in production today. It was based on technologies like Webpack, Node, React and Redux. After I graduated from NTNU I started working as a full time employee for Sportradar in Trondheim.",
     "location": {
       "address": "Mellomila 93 B",
       "postalCode": "7018",
@@ -22,12 +22,12 @@
       },
       {
         "network": "Twitter",
-        "username": "kennethaa",
+        "username": "kennethaasan",
         "url": "https://twitter.com/kennethaasan"
       },
       {
         "network": "Github",
-        "username": "kennethaa",
+        "username": "kennethaasan",
         "url": "https://github.com/kennethaasan"
       }
     ]
@@ -40,7 +40,7 @@
       "startDate": "2014-06-01",
       "summary": "Working in the Hosted Solutions team, bringing Sportradar's solutions up to speed with the most recent technological advances.",
       "highlights": [
-        "Introduced React and Redux with universal rendering to Sportradar's livescore and statistics solution."
+        "Introduced React and Redux with server-side rendering to Sportradar's livescore and statistics solution."
       ]
     }
   ],
@@ -77,13 +77,23 @@
         "HTML",
         "CSS",
         "Javascript",
-        "Node.js",
+        "React",
+        "Redux",
+        "Webpack",
+        "Babel",
+        "ESLint",
+        "Flow",
+        "Prettier",
+        "Node",
         "npm",
+        "yarn",
+        "GraphQL",
+        "Relay",
+        "Elasticsearch",
         "nginx",
         "Varnish",
         "Jenkins",
-        "GitLab (CI)",
-        "Elasticsearch"
+        "GitLab (CI)"
       ]
     }
   ],

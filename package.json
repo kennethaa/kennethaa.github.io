@@ -4,7 +4,7 @@
   "description": "Resume",
   "main": "resume.json",
   "scripts": {
-    "export": "resume export index.html --theme Kwan",
+    "export": "resume export index.html --theme kwan",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kenneth Aasan",
